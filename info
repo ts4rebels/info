@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>TS4 REBELS</title>
+  <meta name="description" content="The place for Sims 4 Mods + CC">
+  <!-- Recommended minimum -->
+  <meta property="og:title" content="TS4 Rebels">
+  <meta property="og:description" content="The place for Sims 4 Mods + CC">
+  <meta property="og:image" content="https://siasky.net/TACuKkcc7ATk47DQ5OnYRoVcDhzaKmcEv0lSELmhPOqI4w">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css">
+  <link rel="stylesheet" href="https://siasky.net/EAA_3Iilac_ivj6XhsuR-4BxocdiloA_CWZJwcCKzLFPHQ">
+</head>
+
+<body>
+  <header>
+    <img class="logo" src="https://siasky.net/GACuVhC0qvdtiHEAuRbBal3RJ-ZIfIMz56DXQOFjm7GtRA" alt="The Sims 4 Rebels">
+    <h1>
+      <a href="#home">TS4 Rebels</a>
+    </h1>
+    <nav>
+      <a href="#help">Help</a>
+      <a href="#donors">Becoming a Donor</a>
+      <a href="https://discord.gg/bdmewup"><i class="fab fa-discord"></i></a>
+      <a href="https://www.reddit.com/r/TS4_Rebels/"><i class="fab fa-reddit"></i></a>
+    </nav>
+  </header>
+  <main>
+    <section id="home">
+      <!-- HOME -->
+      <article>
+        <h2>Last update: 11/08/2021 - 9PM UTC <i class="fas fa-check"></i></h2>
+        <p>Welcome to TS4 Rebels Central for Links and Info.</p>
+         Please <strong>BOOKMARK</strong> the two redirect links below to access <strong>this page</strong>. The actual URLs for this page and the Google Sheets change regularly. The most up-to-date links and info will always be at the sidebar of our Reddit page.</p>
+        <ul>
+          <li><a href="http://tiny.cc/TS4_Links">tiny.cc/TS4_Links</a></li>
+          <li><a href="http://tiny.cc/TS4_Links_1">tiny.cc/TS4_Links_1</a></li>
+        </ul>
+      </article>
+      <article>
+        <h2>Google Sheets:</h2>
+        <ul>
+          <li><a href="https://docs.google.com/spreadsheets/d/1W7AE6k7pZEVm1nAEzuf18loozGMBvxGyZhoDB-IlRhA/edit#gid=0">CC in General</a></li>
+          <li><a href="https://docs.google.com/spreadsheets/d/1kfTgVHGwrXo5lscd-uBayiMinen4PArzN7X92F2nZCI/edit#gid=0">Mods and Animations</a></li>
+        </ul>
+      </article>
+      <article>
+        <h2>Discord:</h2>
+        <p>Our Discord is for adult-themed mods for the game The Sims 4! So only 18+ YO, please! Our Discord channel is <strong><em>NOT a place to ask for illegal content or help with the Google Sheets</em></strong>. The server is a place to chat, post pictures, get some help with common TS4 issues, etc.</p>
+        <ul>
+          <li><a href="https://discord.gg/bdmewup">TS4 Port Royal</a></li>
+        </ul>
+      </article>
+      <article>
+        <h2>Reddit:</h2>
+        <p>Our place to organize updates/changelogs/leaks, etc. You can also discuss anything related to The Sims 4 and its mods, share pics and sims stories, etc.</p>
+        <ul>
+          <li><a href="https://www.reddit.com/r/TS4_Rebels/">Reddit's TS4 Rebels</a></li>
+          <li><a href="https://www.reddit.com/r/TS4_Rebels/wiki/requests">How to Request Files</a></li>
+        </ul>
+      </article>
+    </section>
+    <section id="help">
+      <!-- HELP -->
+      <article>
+        <h2>It's asking me for a password!</h2>
+        <p>The password is <strong>TS4Rebels</strong>, and it's on the main page of Google Sheets.</p>
+      </article>
+      <article>
+        <h2>The file ends in .001, .002, etc and I don't know how to open it / it's corrupted.</h2>
+        <p>The .001 file is one part of a larger archive. Each part of a split archive is given an ascending number extension, which are .002, .003, etc. We split large files (mostly builds) so they are easier to download.</p>
+
+        <p><strong><em>To Open:</em></strong></p>
+
+        <p> 1. Place all the files in the same folder. </p>
+
+        <p> 2. Right-click the file with the .001 extension and then select your extraction program (7zip, WinRar, etc) from the drop-down menu.</p>
+
+        <p>  3. Select Extract when prompted and select a destination folder. </p>
+      </article>
+      <article>
+        <h2>The host says the file has been deleted for inactivity or gives me a 404.</h2>
+        <p>We're aware, so there's no need to report this kind of error back to us. We're in the process of re-uploading and adding alternative links to these broken links.</p>
+      </article>
+      <article>
+        <h2>This new host has lots of ads and/or I don't get a download link!</h2>
+        <p>The new host has ads that can send you to another ad page, so we highly recommend installing an ad block like <strong>uBlock Origin</strong> to be on the safe side and avoid redirects.</p>
+      </article>
+      	<article>
+        <h2>I get and error on Letsupload saying the connection has timed out and/or the server is down. What should I do?</h2>
+        <p>LetsUpload has many issues with its servers. It's a free host after all. While not all files are affected by this type of error, it does happen quite often. It usually takes a few days for them to fix it, so please be patient.</p>
+      </article>
+      <article>
+        <h2>I get an error saying "Unable to connect"!</h2>
+        <p>Exchange the localhost for a sia portal, like the image bellow.</p>
+        <figure>
+          <a href="#img-howto">
+            <img loading="lazy" alt="" src="https://siasky.net/3AA4Qsz-WMo1FPgHelcxOoC1QPgLxOQ9w-BhDnG2fnWIsQ" width="1200" height="654">
+          </a>
+        </figure>
+      </article>
+      <article>
+        <p>In case you tried the solutions above and still didn't fix your problem, you can report broken links here: <a href="https://forms.gle/vnHCzEdiczYXyJBZ7">TS4 Link Status</a></p>
+      </article>
+    </section>
+    <section id="donors">
+      <!-- DONORS -->
+      <article>
+        <h2>You can help becoming a donor <i class="fas fa-gift"></i></h2>
+        <p>We cannot do this without the help of generous donors. If you would like to help donating files, please get in touch with us via Discord: bisexualbelladonna#2038 or Cherry_Bomb#5072. On Reddit via <a href="https://www.reddit.com/message/compose?to=/r/TS4_Rebels">ModMail</a>. We're also on <a href="https://f95zone.to/threads/the-sims-4-nsfw-modding.73299/">F95</a> under the same usernames. We’ll upload the files and share them, safeguarding your anonymity.</p>
+        <br>
+        <figure>
+          <a href="#donate">
+            <center><img loading="lazy" alt="centered image" src="https://siasky.net/FAAuYrvXRPNicqL8cXjhgQxOrDGY1iBBq1KUeBXXLfGFqA" width="463" height="621">
+          </a>
+          </center>
+          <br>
+          <br>
+        </figure>
+      </article>
+    </section>
+  </main>
+</body>
+
+</html>
