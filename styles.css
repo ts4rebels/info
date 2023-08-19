@@ -1,4 +1,4 @@
-body { background-color: #363a4a; color: #eee; font-family: "Nunito Sans"; }
+body { background-color: #363a4a; color: #eee; font-family: 'Nunito Sans', sans-serif; }
 a { color: #15c1ab; text-decoration: none; }
   a:hover { color: #ad9cea; }
 header { text-align: center; }
