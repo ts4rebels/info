@@ -1,4 +1,6 @@
-body { background-color: #363a4a; color: #eee; font-family: 'Nunito Sans', sans-serif; }
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200;0,6..12,300;0,6..12,400;0,6..12,500;0,6..12,600;1,6..12,200;1,6..12,300;1,6..12,400&display=swap');
+
+body { background-color: #363a4a; color: #e5e7eb; font-family: 'Nunito Sans', sans-serif; font-weight: 300; }
 a { color: #15c1ab; text-decoration: none; }
   a:hover { color: #ad9cea; }
 header { text-align: center; }
