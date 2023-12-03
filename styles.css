@@ -1,14 +1,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200;0,6..12,300;0,6..12,400;0,6..12,500;0,6..12,600;1,6..12,200;1,6..12,300;1,6..12,400&display=swap');
 
-body { background-color: #363a4a; color: #e5e7eb; font-family: 'Nunito Sans', sans-serif; font-weight: 300; }
+body { background-color: #363a4a; color: #eee; font-family: 'Nunito Sans', sans-serif; font-weight: 300; }
 a { color: #15c1ab; text-decoration: none; }
   a:hover { color: #ad9cea; }
 header { text-align: center; }
-ul { list-style: none; margin-top: 1rem; }
-dl.box { background-color: #2a2e3c; border: 1px solid #171717; padding: 1rem; border-radius: 6px; }
-dl.faq dt { font-size: larger; font-weight: bold; background-color: #2a2e3c; display: inline-block; }
+.mt-0 { margin-top: 0; }
+.mb-0 { margin-bottom: 0; }
+.box { background-color: #2a2e3c; border: 1px solid #171717; padding: 1rem; border-radius: 6px; }
+section.faq h3.q { font-size: larger; font-weight: bold; background-color: #2a2e3c; display: inline-block; }
 .container { margin: 2rem 1.5rem; }
 section.faq header::after { display: block; content: ""; background: #a1acb3; height: 1px; width: 90px; margin: 0 auto; }
+.a-block { padding-left: 1.5rem; }
+.center { text-align: center; }
 .faq { margin-top: 2.5rem; }
 
 @media only screen and (min-width: 768px) {
